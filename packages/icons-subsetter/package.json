@@ -17,7 +17,7 @@
 		"@typescript-eslint/parser": "8.50.1"
 	},
 	"dependencies": {
-		"@tabler/icons-webfont": "3.35.0",
+		"@tabler/icons-webfont": "3.36.0",
 		"harfbuzzjs": "0.4.14",
 		"tsx": "4.21.0",
 		"wawoff2": "2.0.1"
